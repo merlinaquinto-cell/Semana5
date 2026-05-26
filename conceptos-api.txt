@@ -1,0 +1,8 @@
+Qué hace esta ruta?
+ Al ser una ruta de tipo POST, su función principal es recibir y procesar datos enviados por un cliente (como un formulario web o una app móvil) para guardarlos en el servidor o base de datos. No sirve para "ver" una página, sino para "enviar" información estructurada de manera segura.
+2 ¿Para qué podría servir en una aplicación comunitaria?
+ Reporte de incidencias urbanas: Informar sobre daños en la infraestructura (baches, luminarias rotas, problemas de basura).
+ Alertas vecinales y seguridad: Notificar emergencias, objetos extraviados o pérdida de mascotas dentro del sector.
+ Buzón de convivencia y mediación: Enviar quejas o solicitudes al comité del barrio sobre ruidos molestos o mal uso de áreas comunes.
+ Propuestas y proyectos: Permitir que los ciudadanos propongan ideas de mejora comunitaria.
+3 Nota de pruebas: Se especifica que para probarla se requieren herramientas de desarrollo como Thunder Client o Postman, ya que los navegadores web por defecto solo realizan peticiones de lectura (GET) al escribir una URL en la barra de direcciones.

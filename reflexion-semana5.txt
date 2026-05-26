@@ -1,0 +1,6 @@
+Las APIs (Interfaces de Programación de Aplicaciones) funcionan como puentes digitales que permiten que diferentes sistemas y aplicaciones se comuniquen entre sí de forma automática.
+Para una comunidad, las APIs pueden transformar el caos de información en un sistema organizado de las siguientes maneras:
+ Centralización de reportes: Permiten que los reportes o quejas creados por los vecinos en una página web o app móvil se envíen automáticamente a una única base de datos centralizada, evitando que la información se pierda en chats de WhatsApp.
+ Automatización de alertas: Una API puede conectar un sistema de monitoreo (como alertas climáticas o de seguridad) directamente con canales comunitarios. Por ejemplo, si se detecta una emergencia, la API puede enviar un mensaje masivo e instantáneo por Telegram, SMS o correo electrónico sin intervención humana.
+ Conexión con servicios públicos: Las comunidades pueden usar APIs para conectar sus mini-sitios con entidades externas. Por ejemplo, enviar un reporte de un daño en la vía directamente al sistema de la alcaldía local.
+ Visualización organizada: Permiten tomar datos de reportes comunitarios y pasarlos automáticamente a un mapa interactivo en tiempo real (como Google Maps), mostrando visualmente dónde se necesitan soluciones.
